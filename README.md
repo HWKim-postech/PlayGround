@@ -1,9 +1,5 @@
 # PlayGround
 
-This code is for basic FC and CNN model.
-It is quite easy for someone, but there're people who is not familiar with ML.
-If you find any errors, please let me know! 
+This repository contains my personal practice and simple test.
 
-I hope my code will ease you way to study ML.
-
-Thank you.
+Whenever I come up with new ideas, I usually try to make them. It fails 99% I guess, but I can get valuable result someday.
